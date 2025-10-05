@@ -5,6 +5,7 @@ Clean code, practical solutions, constant learning. *(También hablo español.)*
 
 ## About
 Developer with a Computer Science background focused on building simple, reliable, and maintainable software. I enjoy turning ideas into small, shippable pieces and iterating fast. I value clarity, tests, and readable code.
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 ## Skills
 - **Programming:** Python, JavaScript, HTML, CSS
